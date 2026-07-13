@@ -1,6 +1,6 @@
 # Grand Line Fizz — One Piece 3D Drink Landing Page
 
-A One Piece retheme of the Fizzi 3D e-commerce landing page (Next.js + GSAP + React Three Fiber).
+A One Piece 3d landing page (Next.js + GSAP + React Three Fiber).
 Prismic CMS has been removed — all copy is hardcoded, so it runs standalone.
 
 ## Run it
