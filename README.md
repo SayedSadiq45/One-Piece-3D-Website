@@ -1,5 +1,7 @@
 # Grand Line Fizz — One Piece 3D Drink Landing Page
 
+https://one-piece-3-d-website.vercel.app/
+
 A One Piece 3d landing page (Next.js + GSAP + React Three Fiber).
 Prismic CMS has been removed — all copy is hardcoded, so it runs standalone.
 
