@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "license": "Apache-2.0",
-  "author": "",
+  "author": "SayedSadiq45",
+  "homepage": "https://one-piece-3-d-website.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SayedSadiq45/One-Piece-3D-Website.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

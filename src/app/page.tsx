@@ -3,8 +3,7 @@ import MarqueeBanner from "@/slices/Marquee";
 import SkyDive from "@/slices/SkyDive";
 import Carousel from "@/slices/Carousel";
 import FlavorGrid from "@/slices/FlavorGrid";
-import AlternatingText from "@/slices/AlternatingText";
-import BigText from "@/slices/BigText";
+import Footer from "@/components/Footer";
 
 // Static, CMS-free homepage. New voyage flow:
 //   Hero → velocity ribbon → sky-dive title card → crew selector →
@@ -17,6 +16,7 @@ export default function Index() {
       <SkyDive />
       <Carousel />
       <FlavorGrid />
+      <Footer />
     </>
   );
 }

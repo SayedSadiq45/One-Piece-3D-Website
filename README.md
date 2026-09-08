@@ -5,6 +5,14 @@ https://one-piece-3-d-website.vercel.app/
 A One Piece 3d landing page (Next.js + GSAP + React Three Fiber).
 Prismic CMS has been removed — all copy is hardcoded, so it runs standalone.
 
+**Created and maintained by [SayedSadiq45](https://github.com/SayedSadiq45).**
+
+**Live website:** [one-piece-3-d-website.vercel.app](https://one-piece-3-d-website.vercel.app/)
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 ## Run it
 
 ```

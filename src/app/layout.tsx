@@ -36,6 +36,16 @@ export const metadata: Metadata = {
   title: "Grand Line Fizz — Drink Like the Pirate King",
   description:
     "Six devil-fruit-grade sodas inspired by the Straw Hat crew. Real fruit, no curse.",
+  metadataBase: new URL("https://one-piece-3-d-website.vercel.app/"),
+  authors: [{ name: "SayedSadiq45", url: "https://github.com/SayedSadiq45" }],
+  openGraph: {
+    title: "Grand Line Fizz — Drink Like the Pirate King",
+    description:
+      "Six devil-fruit-grade sodas inspired by the Straw Hat crew. Real fruit, no curse.",
+    url: "https://one-piece-3-d-website.vercel.app/",
+    siteName: "Grand Line Fizz",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
